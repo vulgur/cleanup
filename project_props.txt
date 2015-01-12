@@ -1,0 +1,3 @@
+trunk=D:\workplace\CMTrunk
+booster=D:\svn\SpeedBooster
+cmx=D:\svn\CMX140
